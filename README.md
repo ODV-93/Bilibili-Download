@@ -19,7 +19,7 @@
 
 ## 📥 Download & Install
 
-**👉 [CLICK HERE TO DOWNLOAD LD BILIBILI DOWNLOADER V1.0.0](https://github.com/lUADINH/Bilibili-Download/releases/tag/V1.0.0)**
+
 
 ### Installation & Update Guide:
 1. Click the link above to navigate to the Release page.
